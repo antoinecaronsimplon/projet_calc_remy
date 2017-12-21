@@ -2,6 +2,22 @@ body {
 	font-size: 18px;
 }
 
+.display--hist {
+	height: 4em;
+	width: 10.7em;
+	background-color: grey;
+}
+
+.display--result {
+	height: 2.5em;
+	width: 10.7em;
+	background-color: black;
+}
+
 .egal {
 	width: 6.15em;
+}
+
+.button--ce {
+	text-transform: uppercase;
 }
